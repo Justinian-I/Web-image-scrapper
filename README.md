@@ -18,7 +18,7 @@ The Image Scraper is a Python-based tool designed to automate the process of dow
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Justinian I/Web-image-scraper.git
+   git clone https://github.com/Justinian-I/Web-image-scraper.git 
    cd Web-image-scraper
    ```
 2. Install dependencies:
