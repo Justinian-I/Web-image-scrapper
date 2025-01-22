@@ -1,4 +1,4 @@
-# Image Scraper
+# Web Image Scraper
 
 ## Overview
 The Image Scraper is a Python-based tool designed to automate the process of downloading images from the web while verifying their format and ensuring no duplicates are stored. It provides a modular structure that allows developers to extend functionality for various platforms such as Unsplash or Google Images.
@@ -18,8 +18,8 @@ The Image Scraper is a Python-based tool designed to automate the process of dow
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/image-scraper.git
-   cd image-scraper
+   git clone https://github.com/Justinian I/Web-image-scraper.git
+   cd Web-image-scraper
    ```
 2. Install dependencies:
    ```bash
